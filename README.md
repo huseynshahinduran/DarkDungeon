@@ -6,7 +6,7 @@
 A 3D dungeon exploration application built with OpenGL and C++.
 
 ## Demo Video
-https://github.com/huseynshahinduran/DarkDungeon/blob/main/demo.mp4
+https://github.com/huseynshahinduran/DarkDungeon/issues/1#issue-4362357178
 
 ## Features
 
