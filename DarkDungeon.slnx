@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DarkDungeon/DarkDungeon.vcxproj" Id="8012051f-01e8-4756-900f-b00965aff6be" />
+</Solution>

@@ -1,0 +1,24 @@
+﻿  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\Mesh.cpp(62,32): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  obj_loader.cpp
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(27,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(84,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(121,58): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(136,53): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(164,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(262,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(296,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(329,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\obj_loader.cpp(386,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Shader.cpp
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\Shader.cpp(154,26): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Texture.cpp
+  Generating Code...
+  STB.C
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\STB.C(502,38): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\DarkDungeon\STB.C(515,38): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  DarkDungeon.vcxproj -> C:\Users\husey\Desktop\Uni(3rd Class)\GP2\Coursework\DarkDungeon\x64\Debug\DarkDungeon.exe
